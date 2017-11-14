@@ -1,9 +1,9 @@
-name = "Osprey"
+name = "Osprey-ptbr"
 license = "GNU3.0"
 licenselink = "https://github.com/ddspog/osprey-ptbr/blob/master/LICENSE.md"
 description = "Clean, responsive one-page portfolio accompanied by a minimalist blog."
 homepage = "https://github.com/ddspog/osprey-ptbr"
-tags = ["blog", "portfolio", "gallery", "minimalist", "responsive", "flexbox"]
+tags = ["blog", "portfolio", "gallery", "minimalist", "responsive", "flexbox", "pt-br"]
 features = ["blog", "portfolio", "google analytics"]
 min_version = 0.24.1
 
